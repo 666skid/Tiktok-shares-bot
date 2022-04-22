@@ -4,15 +4,6 @@
 
 Adds millions of shares to your tiktoks in a couple of minutes.
 
-## Preview
-
-![](https://cdn.has-cool.pics/tsYl0ZvyNasMpKC1SBIKvOXYn.png?k=Qpdnyk0hhyMZuFlD)
-
-![](https://cdn.has-cool.pics/tB4e2ddGfNu5Hl2hjECOW9LAQ.png?k=JpMLToUvO2LR6SLR)
-
-![](https://cdn.has-cool.pics/is5zOwnNGOa2o7ElxyFEPJ4iW.png?k=BIJt0K6hOK9F7P34)
-
-
 ## Setup
 
 -   [Install go](https://go.dev/dl/)
@@ -33,6 +24,16 @@ go run .
 Then input your desired threads and the video id.
 
 The video ID looks like this: `https://www.tiktok.com/@somone/video/<THIS RIGHT HERE>`
+
+## Preview
+
+![](https://cdn.has-cool.pics/tsYl0ZvyNasMpKC1SBIKvOXYn.png?k=Qpdnyk0hhyMZuFlD)
+
+![](https://cdn.has-cool.pics/bDWNzMKPsHtLOmpc13v2nASbD.png?k=QXIdtM9tBeRRUBXb)
+
+![](https://cdn.has-cool.pics/tB4e2ddGfNu5Hl2hjECOW9LAQ.png?k=JpMLToUvO2LR6SLR)
+
+![](https://cdn.has-cool.pics/is5zOwnNGOa2o7ElxyFEPJ4iW.png?k=BIJt0K6hOK9F7P34)
 
 ---
 
