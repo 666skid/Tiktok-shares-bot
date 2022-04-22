@@ -1,6 +1,6 @@
 # Fast Tiktok Sharebot
 
-Adds shares to your tiktok video.
+Adds millions of shares to your tiktoks in a couple of minutes.
 
 ## Setup
 
