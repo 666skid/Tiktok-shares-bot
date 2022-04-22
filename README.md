@@ -32,7 +32,7 @@ go run .
 
 Then input your desired threads and the video id.
 
-The video looks like this: `https://www.tiktok.com/@somone/video/<THIS RIGHT HERE>`
+The video ID looks like this: `https://www.tiktok.com/@somone/video/<THIS RIGHT HERE>`
 
 ---
 
